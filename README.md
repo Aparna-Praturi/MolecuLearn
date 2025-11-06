@@ -1,4 +1,4 @@
-#  MolecuLearn: Interpretable ML of Protein Signatures in Down’s Syndrome — Classifying Genotype, Treatment & Behavior
+#  MolecuLearn: Interpretable ML of Protein Signatures in Down’s Syndrome : Classifying Genotype, Treatment & Behavior
 
 > Machine learning pipeline to recognize Down’s Syndrome and treatment effects in mice based on protein expression data.  
 > Combines machine learning, hyperparameter optimization, and biological interpretability (SHAP, PCA/UMAP, t-SNE, PDP).
