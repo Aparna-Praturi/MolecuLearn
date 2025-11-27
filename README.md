@@ -1,7 +1,7 @@
 #  MolecuLearn: Interpretable ML of Protein Signatures in Down’s Syndrome : Classifying Genotype, Treatment & Behavior
 
 > Machine learning pipeline to recognize Down’s Syndrome and treatment effects in mice based on protein expression data.  
-> Combines machine learning, hyperparameter optimization, and biological interpretability (SHAP, PCA/UMAP, t-SNE, PDP).
+> Combines machine learning, hyperparameter optimization, and biological interpretability (SHAP, PCA, t-SNE, PDP).
 
 ---
 
@@ -36,7 +36,7 @@ The goal is to build an **explainable ML model** that reveals how molecular-leve
 1. **Preprocessing**
    - Handle missing values, scale features with `StandardScaler`
    - Encode target classes using `LabelEncoder`
-   - Dimensionality reduction with **PCA (95% variance)** for modeling and **t-SNE/UMAP** for visualization
+   - Dimensionality reduction with **PCA (95% variance)** for modeling and **t-SNE** for visualization
 
 2. **Model Training & Optimization**
    - Models: **SVM (RBF)**, **LightGBM**, **Logistic Regression**
