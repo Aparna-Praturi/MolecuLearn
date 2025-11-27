@@ -141,7 +141,7 @@ After Memantine + learning stimulation:
 ---
 
 ###  Oxidative Stress Dynamics (SOD1 Distributions)
-![Placeholder: insert SOD1 histogram comparison here](results/learning%20vs%20control%20in%20normal%20and%20down.png)
+
 
 - In control mice, **SOD1 decreases sharply during learning**, indicating lowered oxidative stress.  
 - In Ts65Dn mice, **SOD1 remains high**, even with learning — showing persistent redox imbalance.  
